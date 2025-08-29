@@ -1,6 +1,6 @@
 ## About me ✨
-> Hi, I'm **Kim Ha Anh Tran**!
-> I'm a high school senior with a passion for building games, useful applications, and 2D simulations. Currently, I'm learning more of C# by collaborating with various game jam teams.
+Hi, I'm **Kim Ha Anh Tran**! <br>
+I'm a high school senior with a passion for building games, useful applications, and 2D simulations. Currently, I'm learning more of C# by collaborating with various game jam teams.
 
 ---
 ## Unity Games
