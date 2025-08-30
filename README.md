@@ -10,7 +10,7 @@ I'm a high school senior with a passion for building games, useful applications,
 - [Dough Duckery](https://github.com/KimHaAnhTran/DoughDuckery)
 ---
 ## Collaborative Game Jams
-- [2025 GMTK: Tuned Out](https://github.com/Vennnot/gmtk-2025)
+- [2025 GMTK: Tuned Out](https://github.com/KimHaAnhTran/TunedOut_2025GMTK/tree/master)
 ---
 ## Web Applications
 - [Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
