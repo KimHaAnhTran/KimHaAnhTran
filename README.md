@@ -4,6 +4,7 @@ I'm a high school senior with a passion for building games, useful applications,
 
 ---
 ## Unity Games
+Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 - [Dead Letter Office](https://github.com/KimHaAnhTran/DeadLetterOffice_Day1)
 - [Commercial Fishing](https://github.com/KimHaAnhTran/CommercialFishing)
 - [The Flying Dutchman](https://github.com/KimHaAnhTran/TheFlyingDutchman)
