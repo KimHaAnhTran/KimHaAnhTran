@@ -3,7 +3,7 @@ Hi, I'm **Kim Ha Anh Tran**! <br>
 I'm a high school senior with a passion for building games, useful applications, and 2D simulations. Currently learning more of C# by participating in various game jams.
 
 ---
-## Unity Games
+## Solo Unity Games
 Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 - [Dead Letter Office](https://github.com/KimHaAnhTran/DeadLetterOffice_Day1)
 - [Commercial Fishing](https://github.com/KimHaAnhTran/CommercialFishing)
