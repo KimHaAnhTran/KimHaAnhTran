@@ -4,7 +4,7 @@ I'm a high school senior with a passion for building games, useful applications,
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,py,js,html,css" />
   </a>
 </p>
 
