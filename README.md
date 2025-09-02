@@ -11,8 +11,8 @@ Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 - [Dough Duckery](https://github.com/KimHaAnhTran/DoughDuckery)
 ---
 ## Collaborative Game Jams
-- [A Question of Taste: 2025.2 Brackeys Jam](https://github.com/KimHaAnhTran/AQuestionOfTaste_2025Brackeys)
-- [Tuned Out: 2025 GMTK Jam](https://github.com/KimHaAnhTran/TunedOut_2025GMTK/tree/master)
+- [A Question of Taste](https://github.com/KimHaAnhTran/AQuestionOfTaste_2025Brackeys)
+- [Tuned Out](https://github.com/KimHaAnhTran/TunedOut_2025GMTK/tree/master)
 ---
 ## Web Applications
 - [Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
