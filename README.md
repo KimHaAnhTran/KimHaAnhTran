@@ -1,5 +1,5 @@
 ## About me ✨
-✌️Hi, I'm **Kim Ha Anh Tran**! Also known by my online alias **Duck Tran.** <br>
+✌️Hi, I'm **Kim Ha Anh Tran**! Aka **Duck Tran.** <br>
 I'm a high school senior with a passion for building games, useful applications, and 2D simulations. Currently learning more of C# and pixel art animations by participating in various game jams.
 
 ---
