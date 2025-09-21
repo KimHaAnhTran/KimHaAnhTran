@@ -9,7 +9,9 @@ I'm a high school senior with a passion for building games, useful applications,
     <img src="https://skillicons.dev/icons?i=unity,cs,py,js,html,css" />
   </a>
 </p>
-
+---
+## 🍑 Web Applications 🍑
+- [Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
 ---
 ## 🍊 Solo Unity Games 🍊
 Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
@@ -22,8 +24,7 @@ Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 - [A Question of Taste](https://github.com/KimHaAnhTran/AQuestionOfTaste_2025Brackeys)
 - [Tuned Out](https://github.com/KimHaAnhTran/TunedOut_2025GMTK/tree/master)
 ---
-## 🍑 Web Applications 🍑
-- [Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
+
 
 
 <!--
