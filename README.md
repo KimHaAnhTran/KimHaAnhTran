@@ -12,7 +12,7 @@ I'm a high school senior with a passion for building games, useful applications,
 
 ---
 ## 🍑 Web Applications 🍑
-- [Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
+- [Kanban Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
 ---
 ## 🍊 Solo Unity Games 🍊
 Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
