@@ -1,7 +1,6 @@
 ## ✨ About me ✨
 ✌️Hi, I'm **Kim Ha Anh Tran**!<br>
-I'm also known by my online alias **Duck Tran.** <br>
-People ask me if my legal name is Duck. The answer is yes. <br>
+My online alias is **Duck Tran.** <br>
 I'm a high school senior with a passion for building games, useful applications, and 2D simulations. I'm currently learning more C# and pixel art through doing game jams.<br>
 
 
