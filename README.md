@@ -13,7 +13,7 @@ I'm a high school senior with a passion for building games, useful applications,
 ---   
 
 <h3 align = "center" > <b> WORKING ON </b> </h3>
-<h2 align = "center" > <a href = "https://github.com/KimHaAnhTran/ONI_ActsOfOmission" style="list-style: none"><b> O.N.I.: ACTS OF OMISSION </b> </a></h2>
+<h2 align = "center" > <a href = "https://github.com/KimHaAnhTran/ONI_ActsOfOmission" style="list-style: none"><b> O.N.I. ACTS OF OMISSION </b> </a></h2>
 <p align = "center">A U.S. history simulation game, where you play as a typist for the Office of Naval Intelligence, c. 1890-1929.</p>
 
 ---
@@ -22,7 +22,7 @@ I'm a high school senior with a passion for building games, useful applications,
 ---
 ## 🍊 Solo Unity Games 🍊
 Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
-- [O.N.I.: Acts of Ommision](https://github.com/KimHaAnhTran/ONI_ActsOfOmission)
+- [O.N.I. Acts of Ommision](https://github.com/KimHaAnhTran/ONI_ActsOfOmission)
 - [Dead Letter Office](https://github.com/KimHaAnhTran/DeadLetterOffice_Day1)
 - [Commercial Fishing](https://github.com/KimHaAnhTran/CommercialFishing)
 - [The Flying Dutchman](https://github.com/KimHaAnhTran/TheFlyingDutchman)
