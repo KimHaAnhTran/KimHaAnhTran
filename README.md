@@ -22,7 +22,7 @@ I'm a high school senior with a passion for building games, useful applications,
 ---
 ## 🍊 Solo Unity Games 🍊
 Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
-- [O.N.I. Acts of Ommision](https://github.com/KimHaAnhTran/ONI_ActsOfOmission)
+- [O.N.I. Acts of Omission](https://github.com/KimHaAnhTran/ONI_ActsOfOmission)
 - [Dead Letter Office](https://github.com/KimHaAnhTran/DeadLetterOffice_Day1)
 - [Commercial Fishing](https://github.com/KimHaAnhTran/CommercialFishing)
 - [The Flying Dutchman](https://github.com/KimHaAnhTran/TheFlyingDutchman)
