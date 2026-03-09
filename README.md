@@ -1,6 +1,6 @@
 ## ✨ About me ✨
 <div align = "center">
-<p>✌️Hi, I'm <b>Kim Ha Anh Tran!</b> </p>
+<h3>✌️Hi, I'm <b>Kim Ha Anh Tran!</b> </h3>
 <p>My online alias is <b>Duck Tran</b>.</p>
 <p>I'm a high school senior with a passion for building games, art, and coding.</p>
 </div>
