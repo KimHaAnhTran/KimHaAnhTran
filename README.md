@@ -1,9 +1,10 @@
 ## ✨ About me ✨
-✌️Hi, I'm **Kim Ha Anh Tran**!<br>
-My online alias is **Duck Tran.** <br>
-I'm a high school senior with a passion for building games, art, and coding.<br>
-
-
+<div align = "center">
+<p>✌️Hi, I'm <b>Kim Ha Anh Tran!</b> </p>
+<p>My online alias is <b>Duck Tran</b>.</p>
+<p>I'm a high school senior with a passion for building games, art, and coding.</p>
+</div>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,cs,java,py,js,html,css" />
