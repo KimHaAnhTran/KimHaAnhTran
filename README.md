@@ -31,3 +31,7 @@ Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 ## 🍋 Collaborative Game Jams 🍋
 - [A Question of Taste](https://github.com/KimHaAnhTran/AQuestionOfTaste_2025Brackeys)
 - [Tuned Out](https://github.com/KimHaAnhTran/TunedOut_2025GMTK/tree/master)
+---
+## 🥝 Reading List 🥝
+- [Books Read](https://github.com/KimHaAnhTran/Books-Read/blob/main/BOOKS%20READ.md)
+- [Currently Reading](https://github.com/KimHaAnhTran/Books-Read/blob/main/README.md)
