@@ -17,7 +17,7 @@
 <p align = "center">A U.S. history simulation game, where you play as a typist for the Office of Naval Intelligence, c. 1890-1929.</p>
 
 ---
-## 🍑 Web Applications 🍑
+## 🍓 Web Applications 🍓
 - [Kanban Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
 ---
 ## 🍊 Solo Unity Games 🍊
