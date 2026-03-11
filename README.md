@@ -17,9 +17,6 @@
 <p align = "center">A U.S. history simulation game, where you play as a typist for the Office of Naval Intelligence, c. 1890-1929.</p>
 
 ---
-## 🍓 Web Applications 🍓
-- [Kanban Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
----
 ## 🍊 Solo Unity Games 🍊
 Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 - [O.N.I. Acts of Omission](https://github.com/KimHaAnhTran/ONI_ActsOfOmission)
@@ -31,6 +28,9 @@ Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 ## 🍋 Collaborative Game Jams 🍋
 - [A Question of Taste](https://github.com/KimHaAnhTran/AQuestionOfTaste_2025Brackeys)
 - [Tuned Out](https://github.com/KimHaAnhTran/TunedOut_2025GMTK/tree/master)
+---
+## 🍓 Web Applications 🍓
+- [Kanban Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
 ---
 ## 🥝 Reading List 🥝
 - [Books Read](https://github.com/KimHaAnhTran/Books-Read/blob/main/BOOKS%20READ.md)
