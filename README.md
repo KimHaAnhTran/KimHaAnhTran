@@ -1,7 +1,7 @@
 ## ✨ About me ✨
 <div align = "center">
 <h3>✌️Hi, I'm <b>Kim Ha Anh Tran!</b> </h3>
-<h3>I'm a high school senior with a passion for building games, art, and coding.</h3>
+<h3>I'm a high school senior with a passion for building games, making art, and coding.</h3>
 </div>
 <br>
 <p align="center">
