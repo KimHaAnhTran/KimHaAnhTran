@@ -12,7 +12,7 @@
 
 ---   
 
-<h3 align = "center" > <b> WORKING ON </b> </h3>
+<h3 align = "center" > <b> MOST RECENT PROJECT </b> </h3>
 <h2 align = "center" > <a href = "https://github.com/KimHaAnhTran/ONI_ActsOfOmission" style="list-style: none"><b> O.N.I. ACTS OF OMISSION </b> </a></h2>
 <p align = "center">A U.S. history simulation game, where you play as a typist for the Office of Naval Intelligence, c. 1890-1929.</p>
 
